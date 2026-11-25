@@ -1,0 +1,2 @@
+Data_Source,Ticker_Source,Ticker_Retrieval_Date,Start_Date,End_Date_Exclusive,Benchmark,Total_Requested_Tickers,Auto_Adjust
+Yahoo Finance,https://en.wikipedia.org/wiki/List_of_S%26P_500_companies,2026-11-25,2021-01-01,2025-01-01,^GSPC,504,False
