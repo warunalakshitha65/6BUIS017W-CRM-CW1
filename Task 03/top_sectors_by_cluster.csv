@@ -1,0 +1,25 @@
+Model,Cluster,Rank,Sector,Percentage
+Ward_Risk,1,1,Industrials,15.859030837004406
+Ward_Risk,1,2,Financials,15.418502202643172
+Ward_Risk,1,3,Information Technology,13.876651982378855
+Ward_Risk,2,1,Information Technology,30.555555555555557
+Ward_Risk,2,2,Industrials,19.444444444444446
+Ward_Risk,2,3,Financials,13.88888888888889
+KMeans_Risk,1,1,Information Technology,32.87671232876712
+KMeans_Risk,1,2,Industrials,19.863013698630137
+KMeans_Risk,1,3,Consumer Discretionary,15.753424657534246
+KMeans_Risk,2,1,Financials,16.569767441860463
+KMeans_Risk,2,2,Health Care,16.27906976744186
+KMeans_Risk,2,3,Industrials,14.534883720930234
+Ward_RFM,1,1,Industrials,17.587939698492463
+Ward_RFM,1,2,Financials,15.577889447236181
+Ward_RFM,1,3,Information Technology,13.5678391959799
+Ward_RFM,2,1,Information Technology,21.73913043478261
+Ward_RFM,2,2,Financials,14.130434782608695
+Ward_RFM,2,3,Consumer Discretionary,10.869565217391305
+KMeans_RFM,1,1,Industrials,17.577197149643705
+KMeans_RFM,1,2,Financials,15.201900237529692
+KMeans_RFM,1,3,Information Technology,14.251781472684085
+KMeans_RFM,2,1,Information Technology,20.28985507246377
+KMeans_RFM,2,2,Financials,15.942028985507244
+KMeans_RFM,2,3,Utilities,13.043478260869565
